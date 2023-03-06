@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://prediksi-hk-pahings.github.io/sitemap.xml
